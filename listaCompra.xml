@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <address>Av. de Andalucía, 7, 28041 Madrid</address>
+      <geolocation>40.371563396482074, -3.695191159389985</geolocation>
+      <name>lidl</name>
+      <products>
+         <element>
+            <brand null="true" />
+            <currency>€</currency>
+            <isBought>false</isBought>
+            <measurement>kg</measurement>
+            <price>1.5</price>
+            <product>oranges</product>
+            <quantity>3</quantity>
+            <sale>discount20</sale>
+            <section>veggies &amp; fruits</section>
+            <usuallyBought>true</usuallyBought>
+         </element>
+         <element>
+            <brand>ariel</brand>
+            <currency>€</currency>
+            <isBought>false</isBought>
+            <measurement>U</measurement>
+            <price>12</price>
+            <product>washing machine detergent</product>
+            <quantity>1</quantity>
+            <sale>discount30</sale>
+            <section>home clean</section>
+            <usuallyBought>false</usuallyBought>
+         </element>
+         <element>
+            <brand>medina</brand>
+            <currency>€</currency>
+            <isBought>false</isBought>
+            <measurement>U</measurement>
+            <price>1.95</price>
+            <product>cashew nuts</product>
+            <quantity>6</quantity>
+            <sale>discount50</sale>
+            <section>feeding</section>
+            <usuallyBought>true</usuallyBought>
+         </element>
+         <element>
+            <brand>tresemme</brand>
+            <currency>€</currency>
+            <isBought>false</isBought>
+            <measurement>U</measurement>
+            <price>3.5</price>
+            <product>shampoo</product>
+            <quantity>3</quantity>
+            <sale null="true" />
+            <section>hygiene</section>
+            <usuallyBought>false</usuallyBought>
+         </element>
+      </products>
+      <sales>
+         <element>
+            <description>20% off</description>
+            <discount>20</discount>
+            <id>discount20</id>
+            <validityPeriod>2021-04-16</validityPeriod>
+         </element>
+         <element>
+            <description>30% off</description>
+            <discount>30</discount>
+            <id>discount30</id>
+            <validityPeriod>2021-04-16</validityPeriod>
+         </element>
+         <element>
+            <description>50% off</description>
+            <discount>50</discount>
+            <id>discount50</id>
+            <validityPeriod>2021-04-12</validityPeriod>
+         </element>
+      </sales>
+   </element>
+</root>
